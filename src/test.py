@@ -16,4 +16,4 @@ if __name__ == '__main__':
     lines=f.readlines()
     for line in lines:
         tm_query(line)
-    f.close()    
+    f.close()
